@@ -1,16 +1,16 @@
-## Ejemplo de un webservice
+# Ejemplo de un webservice
 
-# Contenido de los directorios
+## Contenido de los directorios
 script_db  - script para mqslq o mariadb
 webservice - código de la api
 
-# Configuración
+## Configuración
 crear la base de datos y usuario, con el script contenido en el directorio script_db
 
-# Instalar  ingresar al directorio webservice
+## Instalar  ingresar al directorio webservice
 node install
 
-# Ejecutar
+## Ejecutar
 node api.js
 
 ## Código obtenido de
